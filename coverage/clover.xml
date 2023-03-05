@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1677900797540" clover="3.2.0">
+  <project timestamp="1677900797540" name="All files">
+    <metrics statements="54" coveredstatements="54" conditionals="20" coveredconditionals="19" methods="3" coveredmethods="3" elements="77" coveredelements="76" complexity="0" loc="54" ncloc="54" packages="1" files="1" classes="1"/>
+    <file name="index.ts" path="/Users/jiangzhi/Desktop/code/front-end/algorithms-note/src/字符串中连续重复次数最多的字符/index.ts">
+      <metrics statements="54" coveredstatements="54" conditionals="20" coveredconditionals="19" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="6" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="3" type="cond" truecount="1" falsecount="0"/>
+      <line num="14" count="83" type="stmt"/>
+      <line num="15" count="83" type="stmt"/>
+      <line num="16" count="83" type="cond" truecount="1" falsecount="0"/>
+      <line num="17" count="41" type="cond" truecount="1" falsecount="0"/>
+      <line num="18" count="18" type="stmt"/>
+      <line num="19" count="18" type="cond" truecount="1" falsecount="0"/>
+      <line num="20" count="41" type="cond" truecount="1" falsecount="0"/>
+      <line num="21" count="23" type="stmt"/>
+      <line num="22" count="23" type="stmt"/>
+      <line num="23" count="41" type="stmt"/>
+      <line num="24" count="83" type="cond" truecount="1" falsecount="0"/>
+      <line num="25" count="42" type="stmt"/>
+      <line num="26" count="42" type="stmt"/>
+      <line num="27" count="42" type="cond" truecount="1" falsecount="0"/>
+      <line num="28" count="16" type="stmt"/>
+      <line num="29" count="42" type="cond" truecount="1" falsecount="0"/>
+      <line num="30" count="26" type="stmt"/>
+      <line num="31" count="26" type="stmt"/>
+      <line num="32" count="42" type="stmt"/>
+      <line num="33" count="83" type="stmt"/>
+      <line num="34" count="83" type="stmt"/>
+      <line num="35" count="83" type="cond" truecount="1" falsecount="0"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="37" count="3" type="cond" truecount="1" falsecount="0"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="39" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="40" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="41" count="2" type="cond" truecount="0" falsecount="1"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="44" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="45" count="7" type="stmt"/>
+      <line num="46" count="7" type="cond" truecount="1" falsecount="0"/>
+      <line num="47" count="6" type="stmt"/>
+      <line num="48" count="7" type="cond" truecount="1" falsecount="0"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="50" count="1" type="stmt"/>
+      <line num="51" count="7" type="cond" truecount="1" falsecount="0"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
