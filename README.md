@@ -6,4 +6,7 @@
 - 深度优先遍历
 - 广度优先遍历
 
-- 两数之和
+## LeetCode
+
+- [两数之和](https://github.com/aa1213889/algorithms-note/tree/main/src/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C) 
+

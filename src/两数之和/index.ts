@@ -4,6 +4,7 @@ type Sign = {
 
 /**
  * @param map = {数字:数组位置}
+ * @description https://leetcode.cn/problems/two-sum/
  */
 export const twoSum = (nums: number[], target: number): number[] => {
   const map: Sign = {}
