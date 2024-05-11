@@ -1,4 +1,4 @@
-/** https://leetcode.cn/problems/remove-linked-list-elements/ */
+/** @link https://leetcode.cn/problems/remove-linked-list-elements/ */
 import { ListNode } from '..'
 
 export function removeElements(head: ListNode | null, val: number): ListNode | null {

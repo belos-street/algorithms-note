@@ -1,4 +1,4 @@
-/** https://leetcode.cn/problems/linked-list-cycle */
+/** @link https://leetcode.cn/problems/linked-list-cycle */
 import { ListNode } from '..'
 
 export function hasCycle(head: ListNode | null): boolean {

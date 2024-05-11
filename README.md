@@ -1,12 +1,14 @@
 # algorithms-note
-记录平时用过的算法
+记录平时用过/刷过的算法。
 
-- 寻找字符串中，连续重复次数最多的字符
-- 多个数组求交集
-- 深度优先遍历
-- 广度优先遍历
+### LeetCode
 
-## LeetCode
+#### LinkList
 
-- [两数之和](https://github.com/aa1213889/algorithms-note/tree/main/src/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C) 
+[203. 移除链表元素](https://github.com/belos-street/algorithms-note/blob/main/src/LinkList/remove-linked-list-elements/index.ts)
 
+[141. 环形链表](https://github.com/belos-street/algorithms-note/blob/main/src/LinkList/linked-list-cycle/index.ts)
+
+[146. LRU 缓存](https://github.com/belos-street/algorithms-note/blob/main/src/LinkList/lru-cache/index.ts)
+
+### Other

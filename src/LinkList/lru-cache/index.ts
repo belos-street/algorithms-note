@@ -1,4 +1,4 @@
-/** https://leetcode.cn/problems/lru-cache */
+/** @link https://leetcode.cn/problems/lru-cache */
 /**
  * Your LRUCache object will be instantiated and called as such:
  * var obj = new LRUCache(capacity)
