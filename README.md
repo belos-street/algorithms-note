@@ -11,19 +11,19 @@
 
 [146. LRU 缓存](https://github.com/belos-street/algorithms-note/blob/main/src/LinkList/lru-cache/index.ts)
 
-### BinaryTree
+#### BinaryTree
 
 [226. 翻转二叉树](https://github.com/belos-street/algorithms-note/blob/main/src/BinaryTree/invert-binary-tree/index.ts)
 
 [104. 二叉树最大深度](https://github.com/belos-street/algorithms-note/blob/main/src/BinaryTree/maximum-depth-of-binary-tree/index.ts)
 
-### BitwiseOperation
+#### BitwiseOperation
 
 [231. 2的幂](https://github.com/belos-street/algorithms-note/blob/main/src/BitwiseOperation/power-of-two/index.ts)
 
 [136. 只出现一次的数字](https://github.com/belos-street/algorithms-note/blob/main/src/BitwiseOperation/single-number/index.ts)
 
-### Stack
+#### Stack
 
 [20. 有效的括号](https://github.com/belos-street/algorithms-note/blob/main/src/Stack/valid-parentheses/index.ts)
 
