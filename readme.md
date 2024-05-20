@@ -25,6 +25,8 @@
 
 #### Stack
 
+[155. 最小栈](https://github.com/belos-street/algorithms-note/blob/main/src/Stack/min-stack/index.ts)
+
 [20. 有效的括号](https://github.com/belos-street/algorithms-note/blob/main/src/Stack/valid-parentheses/index.ts)
 
 ### Other
