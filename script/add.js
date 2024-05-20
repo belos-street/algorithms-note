@@ -3,8 +3,6 @@ import fs from 'fs'
 
 const srcPath = './src'
 const dirs = fs.readdirSync(srcPath).filter(item => !item.includes('.'))
-
-
 /**
  * 脚本流程
  * 1.选择目录
@@ -74,9 +72,9 @@ inquirer
 
 const updateReadme = () => {
   const { router, type, id, name } = algorithmInfo
-  let content = fs.readFileSync('README.md', 'utf-8')
+  const content = fs.readFileSync('README.md', 'utf-8')
   const contentList = content.split('\n')
-  const fileIndex = contentList.findIndex(item => item === `#### ${type}`) //
+  const fileIndex = contentList.findIndex(item => item === `#### ${type}`)
   contentList.splice(fileIndex + 2, 0, ...[`[${id}. ${name}](https://github.com/belos-street/algorithms-note/blob/main/src/${type}/${router}/index.ts)`, ''])
   fs.writeFileSync('README.md', contentList.join('\n'))
 }
