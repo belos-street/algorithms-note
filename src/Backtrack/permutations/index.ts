@@ -18,7 +18,7 @@ function backtrack(list: number[][], temp: number[], nums: number[]) {
   }
 }
 
-function permute(nums: number[]): number[][] {
+export function permute(nums: number[]): number[][] {
   let list: number[][] = []
   backtrack(list, [], nums)
   return list
