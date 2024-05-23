@@ -34,6 +34,8 @@
 
 #### Backtrack
 
+[79. 单词搜索](https://github.com/belos-street/algorithms-note/blob/main/src/Backtrack/word-search/index.ts)
+
 [46. 全排列](https://github.com/belos-street/algorithms-note/blob/main/src/Backtrack/permutations/index.ts)
 
 ### Other
