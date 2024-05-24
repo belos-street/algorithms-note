@@ -36,4 +36,8 @@
 
 [46. 全排列](https://github.com/belos-street/algorithms-note/blob/main/src/Backtrack/permutations/index.ts)
 
+#### BinarySearch
+
+[35. 搜索插入位置](https://github.com/belos-street/algorithms-note/blob/main/src/BinarySearch/search-insert-position/index.ts)
+
 ### Other
