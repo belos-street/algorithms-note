@@ -42,4 +42,8 @@
 
 [35. 搜索插入位置](https://github.com/belos-street/algorithms-note/blob/main/src/BinarySearch/search-insert-position/index.ts)
 
+#### Greedy
+
+[860. 柠檬水找零](https://github.com/belos-street/algorithms-note/blob/main/src/Greedy/lemonade-change/index.ts)
+
 ### Other
