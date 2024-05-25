@@ -44,6 +44,8 @@
 
 #### Greedy
 
+[55. 跳跃游戏](https://github.com/belos-street/algorithms-note/blob/main/src/Greedy/jump-game/index.ts)
+
 [860. 柠檬水找零](https://github.com/belos-street/algorithms-note/blob/main/src/Greedy/lemonade-change/index.ts)
 
 ### Other
