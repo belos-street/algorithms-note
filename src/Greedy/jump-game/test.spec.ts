@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { canJump } from '.'
 
-describe('全排列', () => {
+describe('跳跃游戏', () => {
   it('example1', () => {
     expect(canJump([2, 3, 1, 1, 4])).toBe(true)
   })
