@@ -54,4 +54,10 @@
 
 [509. 斐波那契数列](https://github.com/belos-street/algorithms-note/blob/main/src/DynamicProgramming/fibonacci-number/index.ts)
 
+#### Hash
+
+[49. 字母异位词分组](https://github.com/belos-street/algorithms-note/blob/main/src/Hash/group-anagrams/index.ts)
+
+[1. 两数之和](https://github.com/belos-street/algorithms-note/blob/main/src/Hash/two-sum/index.ts)
+
 ### Other
