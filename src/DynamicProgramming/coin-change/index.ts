@@ -1,6 +1,6 @@
 /** @link https://leetcode.cn/problems/coin-change */
 
-function coinChange(coins: number[], amount: number): number {
+export function coinChange(coins: number[], amount: number): number {
   const dp = new Array<number>(amount + 1).fill(Infinity) // 初始化一个长度为amount + 1的数组dp，用于存储每个金额所需的最少硬币数，初始值设为Infinity表示尚未找到组合方式
   dp[0] = 0 // dp[0]特例，表示金额为0时，不需要任何硬币
 
