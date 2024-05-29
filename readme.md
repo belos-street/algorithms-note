@@ -52,6 +52,8 @@
 
 #### DynamicProgramming
 
+[300. 最长递增子序列](https://github.com/belos-street/algorithms-note/blob/main/src/DynamicProgramming/longest-increasing-subsequence/index.ts)
+
 [322. 零钱兑换](https://github.com/belos-street/algorithms-note/blob/main/src/DynamicProgramming/coin-change/index.ts)
 
 [509. 斐波那契数列](https://github.com/belos-street/algorithms-note/blob/main/src/DynamicProgramming/fibonacci-number/index.ts)
