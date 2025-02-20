@@ -4,6 +4,10 @@
 
 ### LeetCode
 
+#### TwoPointers
+
+[42. 接雨水](https://github.com/belos-street/algorithms-note/blob/main/src/TwoPointers/trapping-rain-water/index.ts)
+
 #### LinkList
 
 [203. 移除链表元素](https://github.com/belos-street/algorithms-note/blob/main/src/LinkList/remove-linked-list-elements/index.ts)
